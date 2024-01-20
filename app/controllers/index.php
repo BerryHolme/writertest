@@ -81,4 +81,9 @@ class index
 
     }
 
+    public function noDatabase()
+    {
+        echo \Template::instance()->render('noDatabase.php');
+    }
+
 }
