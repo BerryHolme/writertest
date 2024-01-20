@@ -1,0 +1,16 @@
+{
+  "name": "little/chat",
+  "description": "Chat",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "matou",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree": ">=3.8",
+    "ikkez/f3-cortex": ">=v1.7"
+  }
+}
